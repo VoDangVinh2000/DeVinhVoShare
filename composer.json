@@ -1,5 +1,5 @@
 {
-  "name" : "vinhvo/sharede",
+  "name" : "vinhvo-laravel/sharede",
   "description" : "Không có mục đích share source, chỉ test liên kết với packagist",
   "authors" : [
     {
@@ -7,7 +7,7 @@
     }
   ],
   "require" : {
-    "vinhvo/sharede" : "*"
+    "vinhvo-laravel/sharede" : "*"
   }
 
 }
